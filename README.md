@@ -35,7 +35,7 @@ For the complete legal text of the CC BY 4.0 license, please refer to the [Creat
 
 ## Credits
 
-**Author:** BenXiadaous
+**Author:** BenXiadous aka Bencehhh
 
 For inquiries or to contribute, feel free to contact BenXiadaous.
 
