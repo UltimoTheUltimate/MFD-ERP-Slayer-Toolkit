@@ -23,7 +23,7 @@ This toolkit is licensed under the **Creative Commons Attribution 4.0 Internatio
 - **Share** the toolkit by copying and redistributing it in any format.
 - **Adapt** the toolkit by remixing, transforming, and building upon it.
 
-**Requirements:**
+### Requirements:
 - **Attribution**: You must provide proper credit to BenXiadous as the original creator. This includes a link to the license and an indication if any modifications were made. The attribution must be clearly visible and should not imply endorsement by the creator unless explicitly agreed.
 
 **No Additional Restrictions**: This license does not allow for any additional legal terms or conditions that might restrict others from doing anything the license permits.
@@ -36,7 +36,3 @@ For the complete legal text of the CC BY 4.0 license, please refer to the [Creat
 For inquiries or to contribute, feel free to contact BenXiadous.
 
 Thank you for helping keep Roblox communities safe and enjoyable!
-
-© COPYRIGHT UNDER CREATIVE COMMONS ©
-© CC BY 4.0 
-
