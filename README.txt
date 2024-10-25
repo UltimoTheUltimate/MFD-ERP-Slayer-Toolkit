@@ -1,44 +1,48 @@
-###MFD ERP Slayer Toolkit
+𝗠𝗙𝗗 𝗘𝗥𝗣 𝗦𝗹𝗮𝘆𝗲𝗿 𝗧𝗼𝗼𝗹𝗸𝗶𝘁
 
-Thank you for downloading the **MFD ERP Slayer Toolkit**!
+Ｔｈａｎｋ ｙｏｕ ｆｏｒ ｄｏｗｎｌｏａｄｉｎｇ ｔｈｅ ＭＦＤ ＥＲＰ Ｓｌａｙｅｒ Ｔｏｏｌｋｉｔ！
 
-This toolkit is designed to provide a suite of software tools, web applications, and utilities tailored for efficient identification and management of ERP accounts. Whether you're managing moderation tasks, maintaining community standards, or streamlining account reviews, the MFD ERP Slayer Toolkit aims to simplify and accelerate these processes.
+Ｔｈｉｓ ｔｏｏｌｋｉｔ ｉｓ ｄｅｓｉｇｎｅｄ ｔｏ ｐｒｏｖｉｄｅ ａ ｓｕｉｔｅ ｏｆ ｓｏｆｔｗａｒｅ ｔｏｏｌｓ， ｗｅｂ ａｐｐｌｉｃａｔｉｏｎｓ， ａｎｄ ｕｔｉｌｉｔｉｅｓ ｔａｉｌｏｒｅｄ ｆｏｒ ｅｆｆｉｃｉｅｎｔ ｉｄｅｎｔｉｆｉｃａｔｉｏｎ ａｎｄ ｍａｎａｇｅｍｅｎｔ ｏｆ ＥＲＰ ａｃｃｏｕｎｔｓ． Ｗｈｅｔｈｅｒ ｙｏｕ＇ｒｅ ｍａｎａｇｉｎｇ ｍｏｄｅｒａｔｉｏｎ ｔａｓｋｓ， ｍａｉｎｔａｉｎｉｎｇ ｃｏｍｍｕｎｉｔｙ ｓｔａｎｄａｒｄｓ， ｏｒ ｓｔｒｅａｍｌｉｎｉｎｇ ａｃｃｏｕｎｔ ｒｅｖｉｅｗｓ， ｔｈｅ ＭＦＤ ＥＲＰ Ｓｌａｙｅｒ Ｔｏｏｌｋｉｔ ａｉｍｓ ｔｏ ｓｉｍｐｌｉｆｙ ａｎｄ ａｃｃｅｌｅｒａｔｅ ｔｈｅｓｅ ｐｒｏｃｅｓｓｅｓ．
 
-##About the Toolkit
+𝐀𝐛𝐨𝐮𝐭 𝐭𝐡𝐞 𝐓𝐨𝐨𝐥𝐤𝐢𝐭
 
-The **MFD ERP Slayer Toolkit** was built to assist moderation teams, particularly those focused on identifying and handling ERP (inappropriate roleplay) accounts. By automating parts of the review process, this toolkit enables users to manage and complete account reviews faster and more effectively. As the Roblox community grows, this toolkit will evolve to meet the increasing demand for moderation resources.
+Ｔｈｅ ＭＦＤ ＥＲＰ Ｓｌａｙｅｒ Ｔｏｏｌｋｉｔ ｗａｓ ｂｕｉｌｔ ｔｏ ａｓｓｉｓｔ ｍｏｄｅｒａｔｉｏｎ ｔｅａｍｓ， ｐａｒｔｉｃｕｌａｒｌｙ ｔｈｏｓｅ ｆｏｃｕｓｅｄ ｏｎ ｉｄｅｎｔｉｆｙｉｎｇ ａｎｄ ｈａｎｄｌｉｎｇ ＥＲＰ （ｉｎａｐｐｒｏｐｒｉａｔｅ ｒｏｌｅｐｌａｙ） ａｃｃｏｕｎｔｓ． Ｂｙ ａｕｔｏｍａｔｉｎｇ ｐａｒｔｓ ｏｆ ｔｈｅ ｒｅｖｉｅｗ ｐｒｏｃｅｓｓ， ｔｈｉｓ ｔｏｏｌｋｉｔ ｅｎａｂｌｅｓ ｕｓｅｒｓ ｔｏ ｍａｎａｇｅ ａｎｄ ｃｏｍｐｌｅｔｅ ａｃｃｏｕｎｔ ｒｅｖｉｅｗｓ ｆａｓｔｅｒ ａｎｄ ｍｏｒｅ ｅｆｆｅｃｔｉｖｅｌｙ． Ａｓ ｔｈｅ Ｒｏｂｌｏｘ ｃｏｍｍｕｎｉｔｙ ｇｒｏｗｓ， ｔｈｉｓ ｔｏｏｌｋｉｔ ｗｉｌｌ ｅｖｏｌｖｅ ｔｏ ｍｅｅｔ ｔｈｅ ｉｎｃｒｅａｓｉｎｇ ｄｅｍａｎｄ ｆｏｒ ｍｏｄｅｒａｔｉｏｎ ｒｅｓｏｕｒｃｅｓ．
 
-##Key Features:
-- Simplifies the identification of ERP accounts
-- Allows faster completion of moderation tasks
-- Expands in functionality with regular updates
-- Various tools for completing ERP account lists
+𝓚𝓮𝔂 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓼:
+－ Ｓｉｍｐｌｉｆｉｅｓ ｔｈｅ ｉｄｅｎｔｉｆｉｃａｔｉｏｎ ｏｆ ＥＲＰ ａｃｃｏｕｎｔｓ
+－ Ａｌｌｏｗｓ ｆａｓｔｅｒ ｃｏｍｐｌｅｔｉｏｎ ｏｆ ｍｏｄｅｒａｔｉｏｎ ｔａｓｋｓ
+－ Ｅｘｐａｎｄｓ ｉｎ ｆｕｎｃｔｉｏｎａｌｉｔｙ ｗｉｔｈ ｒｅｇｕｌａｒ ｕｐｄａｔｅｓ
+－ Ｖａｒｉｏｕｓ ｔｏｏｌｓ ｆｏｒ ｃｏｍｐｌｅｔｉｎｇ ＥＲＰ ａｃｃｏｕｎｔ ｌｉｓｔｓ
 
-This toolkit was developed for Moderation Dummies and all ERP Account "Slayers" dedicated to creating a safe and enjoyable community experience on Roblox.
+𝐓𝐡𝐢𝐬 𝐭𝐨𝐨𝐥𝐤𝐢𝐭 𝐰𝐚𝐬 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐝 𝐟𝐨𝐫 𝐌𝐨𝐝𝐞𝐫𝐚𝐭𝐢𝐨𝐧 𝐃𝐮𝐦𝐦𝐢𝐞𝐬 𝐚𝐧𝐝 𝐚𝐥𝐥 𝐄𝐑𝐏 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 "𝐒𝐥𝐚𝐲𝐞𝐫𝐬" 𝐝𝐞𝐝𝐢𝐜𝐚𝐭𝐞𝐝 𝐭𝐨 𝐜𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐚 𝐬𝐚𝐟𝐞 𝐚𝐧𝐝 𝐞𝐧𝐣𝐨𝐲𝐚𝐛𝐥𝐞 𝐜𝐨𝐦𝐦𝐮𝐧𝐢𝐭𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐨𝐧 𝐑𝐨𝐛𝐥𝐨𝐱.
 
-##License
 
-This toolkit is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** license. This means you are free to:
+𝗟𝗶𝗰𝗲𝗻𝘀𝗲
 
-- **Use** this toolkit at no cost for personal or commercial purposes.
-- **Share** the toolkit by copying and redistributing it in any format.
-- **Adapt** the toolkit by remixing, transforming, and building upon it.
+Ｔｈｉｓ ｔｏｏｌｋｉｔ ｉｓ ｌｉｃｅｎｓｅｄ ｕｎｄｅｒ ｔｈｅ ＊＊Ｃｒｅａｔｉｖｅ Ｃｏｍｍｏｎｓ Ａｔｔｒｉｂｕｔｉｏｎ ４．０ Ｉｎｔｅｒｎａｔｉｏｎａｌ （ＣＣ ＢＹ ４．０）＊＊ ｌｉｃｅｎｓｅ． Ｔｈｉｓ ｍｅａｎｓ ｙｏｕ ａｒｅ ｆｒｅｅ ｔｏ：
 
-###Requirements:
-- **Attribution**: You must provide proper credit to BenXiadous as the original creator. This includes a link to the license and an indication if any modifications were made. The attribution must be clearly visible and should not imply endorsement by the creator unless explicitly agreed.
+－ ＊＊Ｕｓｅ＊＊ ｔｈｉｓ ｔｏｏｌｋｉｔ ａｔ ｎｏ ｃｏｓｔ ｆｏｒ ｐｅｒｓｏｎａｌ ｏｒ ｃｏｍｍｅｒｃｉａｌ ｐｕｒｐｏｓｅｓ．
+－ ＊＊Ｓｈａｒｅ＊＊ ｔｈｅ ｔｏｏｌｋｉｔ ｂｙ ｃｏｐｙｉｎｇ ａｎｄ ｒｅｄｉｓｔｒｉｂｕｔｉｎｇ ｉｔ ｉｎ ａｎｙ ｆｏｒｍａｔ．
+－ ＊＊Ａｄａｐｔ＊＊ ｔｈｅ ｔｏｏｌｋｉｔ ｂｙ ｒｅｍｉｘｉｎｇ， ｔｒａｎｓｆｏｒｍｉｎｇ， ａｎｄ ｂｕｉｌｄｉｎｇ ｕｐｏｎ ｉｔ．
 
-**No Additional Restrictions**: This license does not allow for any additional legal terms or conditions that might restrict others from doing anything the license permits.
 
-For the complete legal text of the CC BY 4.0 license, please refer to the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/legalcode).
+Ｒｅｑｕｉｒｅｍｅｎｔｓ：
+－ ＊＊Ａｔｔｒｉｂｕｔｉｏｎ＊＊： Ｙｏｕ ｍｕｓｔ ｐｒｏｖｉｄｅ ｐｒｏｐｅｒ ｃｒｅｄｉｔ ｔｏ ＢｅｎＸｉａｄｏｕｓ ａｓ ｔｈｅ ｏｒｉｇｉｎａｌ ｃｒｅａｔｏｒ． Ｔｈｉｓ ｉｎｃｌｕｄｅｓ ａ ｌｉｎｋ ｔｏ ｔｈｅ ｌｉｃｅｎｓｅ ａｎｄ ａｎ ｉｎｄｉｃａｔｉｏｎ ｉｆ ａｎｙ ｍｏｄｉｆｉｃａｔｉｏｎｓ ｗｅｒｅ ｍａｄｅ． Ｔｈｅ ａｔｔｒｉｂｕｔｉｏｎ ｍｕｓｔ ｂｅ ｃｌｅａｒｌｙ ｖｉｓｉｂｌｅ ａｎｄ ｓｈｏｕｌｄ ｎｏｔ ｉｍｐｌｙ ｅｎｄｏｒｓｅｍｅｎｔ ｂｙ ｔｈｅ ｃｒｅａｔｏｒ ｕｎｌｅｓｓ ｅｘｐｌｉｃｉｔｌｙ ａｇｒｅｅｄ．
 
-##Credits
+＊＊Ｎｏ Ａｄｄｉｔｉｏｎａｌ Ｒｅｓｔｒｉｃｔｉｏｎｓ＊＊： Ｔｈｉｓ ｌｉｃｅｎｓｅ ｄｏｅｓ ｎｏｔ ａｌｌｏｗ ｆｏｒ ａｎｙ ａｄｄｉｔｉｏｎａｌ ｌｅｇａｌ ｔｅｒｍｓ ｏｒ ｃｏｎｄｉｔｉｏｎｓ ｔｈａｔ ｍｉｇｈｔ ｒｅｓｔｒｉｃｔ ｏｔｈｅｒｓ ｆｒｏｍ ｄｏｉｎｇ ａｎｙｔｈｉｎｇ ｔｈｅ ｌｉｃｅｎｓｅ ｐｅｒｍｉｔｓ．
 
-**Author:** BenXiadous  
+Ｆｏｒ ｔｈｅ ｃｏｍｐｌｅｔｅ ｌｅｇａｌ ｔｅｘｔ ｏｆ ｔｈｅ ＣＣ ＢＹ ４．０ ｌｉｃｅｎｓｅ， ｐｌｅａｓｅ ｒｅｆｅｒ ｔｏ ｔｈｅ [Ｃｒｅａｔｉｖｅ Ｃｏｍｍｏｎｓ ｗｅｂｓｉｔｅ]（ｈｔｔｐｓ：／／ｃｒｅａｔｉｖｅｃｏｍｍｏｎｓ．ｏｒｇ／ｌｉｃｅｎｓｅｓ／ｂｙ／４．０／ｌｅｇａｌｃｏｄｅ）．
 
-For inquiries or to contribute, feel free to contact BenXiadous.
+Ｃｒｅｄｉｔｓ
 
-Thank you for helping keep Roblox communities safe and enjoyable!
-© COPYRIGHT UNDER CREATIVE COMMONS 
-© CC BY 4.0 
+＊＊Ａｕｔｈｏｒ：＊＊ ＢｅｎＸｉａｄｏｕｓ  
+
+Ｆｏｒ ｉｎｑｕｉｒｉｅｓ ｏｒ ｔｏ ｃｏｎｔｒｉｂｕｔｅ， ｆｅｅｌ ｆｒｅｅ ｔｏ ｃｏｎｔａｃｔ ＢｅｎＸｉａｄｏｕｓ．
+
+Ｔｈａｎｋ ｙｏｕ ｆｏｒ ｈｅｌｐｉｎｇ ｋｅｅｐ Ｒｏｂｌｏｘ ｃｏｍｍｕｎｉｔｉｅｓ ｓａｆｅ ａｎｄ ｅｎｊｏｙａｂｌｅ！
+© ＣＯＰＹＲＩＧＨＴ ＵＮＤＥＲ ＣＲＥＡＴＩＶＥ ＣＯＭＭＯＮＳ 
+© ＣＣ ＢＹ ４．０
+𝟮𝟬𝟮𝟰
+
 
 
