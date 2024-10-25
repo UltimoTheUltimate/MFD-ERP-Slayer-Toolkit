@@ -1,6 +1,4 @@
-# Creating a README.md file with the specified content
-
-readme_content = """# MFD ERP Slayer Toolkit
+# MFD ERP Slayer Toolkit
 
 Thank you for downloading the MFD ERP Slayer Toolkit!
 
@@ -45,12 +43,4 @@ Thank you for helping keep Roblox communities safe and enjoyable!
 
 © COPYRIGHT UNDER CREATIVE COMMONS  
 © CC BY 4.0  
-2024
-"""
-
-# Saving the content to a README.md file
-file_path = '/mnt/data/README.md'
-with open(file_path, 'w') as file:
-    file.write(readme_content)
-
-file_path
+# 2024
