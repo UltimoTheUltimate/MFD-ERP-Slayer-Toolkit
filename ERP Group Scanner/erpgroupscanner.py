@@ -101,7 +101,7 @@ def scan_groups(keywords, start=17000, end=20000, output_file=r"results.txt"): #
 
     request_count = 0  # Track the number of requests made
     with open(output_file, "w", encoding="utf-8") as file:
-        file.write("groupid,name")
+        file.write("groupid,name\n")
         for group_id in range(start, end + 1):
             exists, group_name = check_group(group_id, keywords, session)
             request_count += 1
