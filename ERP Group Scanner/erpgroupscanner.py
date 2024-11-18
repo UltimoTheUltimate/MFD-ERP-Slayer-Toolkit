@@ -101,14 +101,15 @@ def scan_groups(keywords, start=17000, end=20000, output_file=r"results.txt"): #
 
     request_count = 0  # Track the number of requests made
     with open(output_file, "w", encoding="utf-8") as file:
+        file.write("groupid,name")
         for group_id in range(start, end + 1):
             exists, group_name = check_group(group_id, keywords, session)
             request_count += 1
 
             if exists:
-                result = f"https://www.roblox.com/groups/{group_id}/ - Name: {group_name}"
+                result = f"{group_id},{group_name}"
                 group_urls.append(result)
-                print(f"Found: {result}")
+                print(f"Found group: {result}")
                 file.write(result + "\n")
 
             # Adjust sleep dynamically to avoid rate limits
