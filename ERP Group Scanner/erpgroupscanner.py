@@ -82,8 +82,9 @@ def check_group(group_id, keywords, session):
                     return True, group_name
         elif response.status_code == 429:  # Too many requests
             print("Rate limit hit. Waiting...")
-            time.sleep(10)
-        return False, None
+            time.sleep(15)
+        return False, "timeout"
+    
     except requests.exceptions.Timeout:
         print(f"Timeout for group {group_id}. Skipping...")
         return False, None
@@ -105,13 +106,25 @@ def scan_groups(keywords, start=17000, end=20000, output_file=r"results.txt"): #
         for group_id in range(start, end + 1):
             exists, group_name = check_group(group_id, keywords, session)
             request_count += 1
-
             if exists:
                 result = f"{group_id},{group_name}"
                 group_urls.append(result)
                 print(f"Found group: {result}")
                 file.write(result + "\n")
-
+            else:
+                exists, group_name = check_group(group_id, keywords, session)
+                while (not exists and group_name == "timeout"):
+                    
+                    time.sleep(15)
+                    exists, group_name = check_group(group_id, keywords, session)
+                    if exists:
+                        result = f"{group_id},{group_name}"
+                        group_urls.append(result)
+                        print(f"Found group: {result}")
+                        file.write(result + "\n")
+                        break
+                
+                    
             # Adjust sleep dynamically to avoid rate limits
             if request_count % 100 == 0:  # After every 100 requests
                 print(f"Processed {request_count} requests. Pausing briefly to avoid rate limits.")

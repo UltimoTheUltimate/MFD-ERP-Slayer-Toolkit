@@ -1,11 +1,1 @@
 groupid,name
-1,RobloHunks
-2,LOL
-3,CEO Group
-4,IronNoobs
-5,Builderman
-6,PWN
-7,Roblox
-8,Builders Club
-9,Turbo Builders Club
-10,Administrators
